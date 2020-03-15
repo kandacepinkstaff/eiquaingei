@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://huahuiphel.loadingmore.com/sitemap.xml
